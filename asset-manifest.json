@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/scio/static/css/main.e6c13ad2.css",
+    "main.js": "/scio/static/js/main.52733493.js",
+    "static/js/289.96ecee8c.chunk.js": "/scio/static/js/289.96ecee8c.chunk.js",
+    "static/js/787.3cf53bcf.chunk.js": "/scio/static/js/787.3cf53bcf.chunk.js",
+    "index.html": "/scio/index.html",
+    "main.e6c13ad2.css.map": "/scio/static/css/main.e6c13ad2.css.map",
+    "main.52733493.js.map": "/scio/static/js/main.52733493.js.map",
+    "289.96ecee8c.chunk.js.map": "/scio/static/js/289.96ecee8c.chunk.js.map",
+    "787.3cf53bcf.chunk.js.map": "/scio/static/js/787.3cf53bcf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.52733493.js"
+  ]
+}
